@@ -3,7 +3,7 @@
 This library is used to automate various VCC configuration tasks as well as provide a template for others to create their own automations. This is designed for Five9 Employees. 
 
 ## SETUP
-Before starting make sure you have python, pip and git installed on your machine. 
+Before starting make sure you have [python](https://www.python.org/getit/), [pip](https://pip.pypa.io/en/stable/installation/) and [git](https://git-scm.com/) installed on your machine. 
 
 Once you have those just paste these commands into your terminal.
 ```bash
