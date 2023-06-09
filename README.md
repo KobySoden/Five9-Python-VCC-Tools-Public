@@ -3,6 +3,12 @@
 This library is used to automate various VCC configuration tasks as well as provide a template for others to create their own automations. This is designed for Five9 Employees. 
 
 ## SETUP
+Before starting make sure you have python, pip and git installed on your machine. 
+
+Once you have those just paste these commands into your terminal.
+```bash
+git clone https://github.com/KobySoden/Five9-Python-VCC-Tools-Public
+```
 ```bash
 pip install -r requirements.txt
 ```
